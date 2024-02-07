@@ -1,4 +1,5 @@
 import 'package:bloc/bloc.dart';
+import 'package:flutter_application_bloc/models/pokemon_list_response.dart';
 import 'package:meta/meta.dart';
 
 part 'pokemon_bloc_event.dart';
