@@ -1,5 +1,6 @@
 import 'dart:html';
 import 'dart:convert';
+import 'package:http/http.dart';
 
 import 'package:flutter_application_bloc/models/pokemon_list_response.dart';
 import 'package:flutter_application_bloc/repositories/pokemon_repository.dart';
